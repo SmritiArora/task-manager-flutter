@@ -13,9 +13,9 @@ This is a task manager app developed using flutter. These are the features that 
  
  This is how the app looks:
  
- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/47769641/132038923-fb5342e1-6a56-40ec-8b28-60b721c3b821.gif)
+ ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/47769641/132040006-6c13f362-b623-427a-89ed-39d31701497b.gif)
 
-Steps to run the app:
-• Simply clone the app from the develop branch into your machine.
-• Open the terminal.
-• Go to the project directory and run the **flutter run** command.
+Steps to run the app: <br/>
+• Simply clone the app from the develop branch into your machine.<br/>
+• Open the terminal.<br/>
+• Go to the project directory and run the **flutter run** command.<br/>
