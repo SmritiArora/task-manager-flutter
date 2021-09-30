@@ -1,15 +1,15 @@
 
 ## Task Manager App
 
-This is a task manager app developed using flutter. These are the features that this app offers:
+This is a task manager app developed using flutter. These are the features that this app offers:<br/>
 
- • The app has a list of categories for the type of task you want to save.
- • A category is composed of a unique idetification string and a name. 
- • You can add and remove categories to and from a local database. 
- • Inside each category we have a list of tasks which has an id, name, description a favorite status.
- • You can add and remove task to and from a local database. And also toggle the favorite status of a task.
- • You can also reset the task list.
- • The app also has a favorite screen which shows all the favorited tasks along with their categories.
+ • The app has a list of categories for the type of task you want to save.<br/>
+ • A category is composed of a unique idetification string and a name.<br/> 
+ • You can add and remove categories to and from a local database.<br/> 
+ • Inside each category we have a list of tasks which has an id, name, description a favorite status.<br/>
+ • You can add and remove task to and from a local database. And also toggle the favorite status of a task.<br/>
+ • You can also reset the task list.<br/>
+ • The app also has a favorite screen which shows all the favorited tasks along with their categories.<br/>
  
  This is how the app looks:
  
